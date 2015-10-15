@@ -1,5 +1,8 @@
 ![](ResourcesForREADME/ogp.jpg)
 
+
+##テストプッシュ発火
+
 iOS7-Sampler
 ============
 
