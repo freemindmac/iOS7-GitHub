@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  iOS7Sampler
+//  iOS7Sampler fujii change
 //
 //  Created by shuichi on 9/21/13.
 //  Copyright (c) 2013 Shuichi Tsutsumi. All rights reserved.
