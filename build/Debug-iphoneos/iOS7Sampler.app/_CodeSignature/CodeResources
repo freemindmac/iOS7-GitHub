@@ -6,11 +6,11 @@
 	<dict>
 		<key>ActivityTrackingViewController.nib</key>
 		<data>
-		753Yvw0amVU0ZO2BR1E0G1LhFQw=
+		2VgT5eCn4198xMUEjEtLAHX+U/8=
 		</data>
 		<key>ActivityTypesViewController.nib</key>
 		<data>
-		fAgPGiVMN8WQAjKwptwvaAJZW4w=
+		qELc9DAF7eRXCPG0v9lyun2ierk=
 		</data>
 		<key>AppIcon29x29@2x.png</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		//lb8ILYkJp6/4sktMhUM0WTCmA=
+		JYon4XCU+VqucKbbY2CF0AcaX3E=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
@@ -53,7 +53,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O1DTLHuN/I0CeF0DV4pLDMKZPmU=
+			DlPNM4f/f9W1hgmdh2ixZFGrdtQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -62,30 +62,30 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5rBZ9n+n4MkAy7xfa2VAbb/bWKw=
+			/Fu9KxhY1pfB41EA2GY8oX0qaNs=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>BeaconViewController.nib</key>
 		<data>
-		kiWr8d9d8QzOxum/jrCcRPTHy1M=
+		b3/TfJI6roAmO5/Q7YCjMVvXc58=
 		</data>
 		<key>BrowseCodeViewController.nib</key>
 		<data>
-		/6FFVkwXd+4MghrNat8b6Iu4LJE=
+		X6GyblSKd29sWrA+dB6RAxbGhrE=
 		</data>
 		<key>CustomTransitionViewController.nib</key>
 		<data>
-		zTypwKg8jkuW6bUhHwydsJRnqcY=
+		rwCJKQmJG2bT8w9m/Lf2JE5TsrI=
 		</data>
 		<key>DynamicBehaviorsViewController.nib</key>
 		<data>
-		Qfuc9FImB8y82y2krUC7O0NJJOU=
+		bwLYmklUzatid78Yc9y6z65EYgQ=
 		</data>
 		<key>FontsViewController.nib</key>
 		<data>
-		jt1WrcPURH32HB8iRv9rXvN7L78=
+		TS4VMGuhF5k4Xtng7ggXmIp/lIc=
 		</data>
 		<key>IPhone_5s@2x.png</key>
 		<data>
@@ -93,7 +93,7 @@
 		</data>
 		<key>ImageFiltersViewController.nib</key>
 		<data>
-		gDAIlq38T9YwM8cMawaXEGQkf7c=
+		7APVpeO7Oy5w5djyIHWXxL+KpPk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -117,27 +117,27 @@
 		</data>
 		<key>Map3DViewController.nib</key>
 		<data>
-		bSzxAEvE4/HVcPwrSKYPF8clT6U=
+		bOMZVhxDO/az7jRbNqP6WNxDiSw=
 		</data>
 		<key>MapDirectionsViewController.nib</key>
 		<data>
-		kqnAeB5Fj/rUwsacudgB2bxshyg=
+		kq9czK4fNhV/zG4P7dmwUQLfXwo=
 		</data>
 		<key>MapOverlaysViewController.nib</key>
 		<data>
-		kyzMIIivRVj+0hsZVc9utP16oFI=
+		4JYJrSeF2hAyiKRp4/r2Yz0E4eQ=
 		</data>
 		<key>MapSnapshotViewController.nib</key>
 		<data>
-		TbDS4ii2ehRzlxdz6a+gix7ejtQ=
+		7+ii5SF8ocChkXuPC7SXBccwPpk=
 		</data>
 		<key>MotionEffectViewController.nib</key>
 		<data>
-		SaEas/thlKZMgn96kwQJTjyFH1w=
+		+JbN1G9SQ470IgYeddWUznFpYl8=
 		</data>
 		<key>MultipeerConnectivityViewController.nib</key>
 		<data>
-		dmUYmyUgU8QRbq+xAAX5v3O9x+4=
+		i4zLuDtg2kjig4SeNWpbvRH7MFM=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -145,19 +145,19 @@
 		</data>
 		<key>QRCodeReaderViewController~iphone.nib/objects-8.0+.nib</key>
 		<data>
-		mNys11SYRL8Kue/10UeEivnMc0w=
+		IEUU50u4UUggrgu5yOstMEmvqBM=
 		</data>
 		<key>QRCodeReaderViewController~iphone.nib/runtime.nib</key>
 		<data>
-		EaJDyMQRa81FeBNzY/N9oCn9R+k=
+		HaJ4F46glUb4dGNxKyIVz4jerF4=
 		</data>
 		<key>QRCodeViewController.nib</key>
 		<data>
-		FBOiMtM2ljRHfMTkprr2Nj7NT5k=
+		BjDbwd/xzWgGSRb1nTJ63wMIHuU=
 		</data>
 		<key>ReadingListViewController.nib</key>
 		<data>
-		5BdU2U0F4FsM9X4C6Lt3APa0jkk=
+		TiUFYyCBWpvJr7ccWQpCPHZCJUw=
 		</data>
 		<key>SVProgressHUD.bundle/angle-mask@2x.png</key>
 		<data>
@@ -173,27 +173,27 @@
 		</data>
 		<key>SloMoVideoRecordViewController.nib</key>
 		<data>
-		x1pEy6FlX3Ah3fsN7scjb6tcIcg=
+		cgqmXmCcfjn7nbhxQXvrxEi7zCY=
 		</data>
 		<key>SmileDetectionViewController.nib</key>
 		<data>
-		as58Enx9Sl4WkkI4RxulgY5bI7s=
+		1aczIOMZ3lz9Cmecek+3i8AAUJA=
 		</data>
 		<key>SpeechSynthesisViewController.nib</key>
 		<data>
-		HOluEsON5mTyvbg1SBsBeFPX8Vg=
+		iRRUZcwOfEQjNS0vOZBYuQLmHCg=
 		</data>
 		<key>SpringAnimationViewController.nib</key>
 		<data>
-		2h+PEjN8CktQCeA8w1EIQ+0mnLo=
+		1wfPdpYLDwwiSkCpQZclrt/LBus=
 		</data>
 		<key>SpriteKitViewController.nib</key>
 		<data>
-		AAy8boeqvJUwT8cgN6ski339yRk=
+		PCt/0rCcKFs5HV/8QXJrZaFKmaI=
 		</data>
 		<key>WebPaginationViewController.nib</key>
 		<data>
-		iSdS3rqjQEwjqvfA//kmbB2gCMo=
+		2KQZ/YmgNH3e56DtQw0ItBlwZHY=
 		</data>
 		<key>addedIn7.plist</key>
 		<data>
@@ -425,11 +425,11 @@
 	<dict>
 		<key>ActivityTrackingViewController.nib</key>
 		<data>
-		753Yvw0amVU0ZO2BR1E0G1LhFQw=
+		2VgT5eCn4198xMUEjEtLAHX+U/8=
 		</data>
 		<key>ActivityTypesViewController.nib</key>
 		<data>
-		fAgPGiVMN8WQAjKwptwvaAJZW4w=
+		qELc9DAF7eRXCPG0v9lyun2ierk=
 		</data>
 		<key>AppIcon29x29@2x.png</key>
 		<data>
@@ -457,7 +457,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		//lb8ILYkJp6/4sktMhUM0WTCmA=
+		JYon4XCU+VqucKbbY2CF0AcaX3E=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
@@ -472,7 +472,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O1DTLHuN/I0CeF0DV4pLDMKZPmU=
+			DlPNM4f/f9W1hgmdh2ixZFGrdtQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -481,30 +481,30 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5rBZ9n+n4MkAy7xfa2VAbb/bWKw=
+			/Fu9KxhY1pfB41EA2GY8oX0qaNs=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>BeaconViewController.nib</key>
 		<data>
-		kiWr8d9d8QzOxum/jrCcRPTHy1M=
+		b3/TfJI6roAmO5/Q7YCjMVvXc58=
 		</data>
 		<key>BrowseCodeViewController.nib</key>
 		<data>
-		/6FFVkwXd+4MghrNat8b6Iu4LJE=
+		X6GyblSKd29sWrA+dB6RAxbGhrE=
 		</data>
 		<key>CustomTransitionViewController.nib</key>
 		<data>
-		zTypwKg8jkuW6bUhHwydsJRnqcY=
+		rwCJKQmJG2bT8w9m/Lf2JE5TsrI=
 		</data>
 		<key>DynamicBehaviorsViewController.nib</key>
 		<data>
-		Qfuc9FImB8y82y2krUC7O0NJJOU=
+		bwLYmklUzatid78Yc9y6z65EYgQ=
 		</data>
 		<key>FontsViewController.nib</key>
 		<data>
-		jt1WrcPURH32HB8iRv9rXvN7L78=
+		TS4VMGuhF5k4Xtng7ggXmIp/lIc=
 		</data>
 		<key>IPhone_5s@2x.png</key>
 		<data>
@@ -512,7 +512,7 @@
 		</data>
 		<key>ImageFiltersViewController.nib</key>
 		<data>
-		gDAIlq38T9YwM8cMawaXEGQkf7c=
+		7APVpeO7Oy5w5djyIHWXxL+KpPk=
 		</data>
 		<key>LaunchImage-700-568h@2x.png</key>
 		<data>
@@ -532,43 +532,43 @@
 		</data>
 		<key>Map3DViewController.nib</key>
 		<data>
-		bSzxAEvE4/HVcPwrSKYPF8clT6U=
+		bOMZVhxDO/az7jRbNqP6WNxDiSw=
 		</data>
 		<key>MapDirectionsViewController.nib</key>
 		<data>
-		kqnAeB5Fj/rUwsacudgB2bxshyg=
+		kq9czK4fNhV/zG4P7dmwUQLfXwo=
 		</data>
 		<key>MapOverlaysViewController.nib</key>
 		<data>
-		kyzMIIivRVj+0hsZVc9utP16oFI=
+		4JYJrSeF2hAyiKRp4/r2Yz0E4eQ=
 		</data>
 		<key>MapSnapshotViewController.nib</key>
 		<data>
-		TbDS4ii2ehRzlxdz6a+gix7ejtQ=
+		7+ii5SF8ocChkXuPC7SXBccwPpk=
 		</data>
 		<key>MotionEffectViewController.nib</key>
 		<data>
-		SaEas/thlKZMgn96kwQJTjyFH1w=
+		+JbN1G9SQ470IgYeddWUznFpYl8=
 		</data>
 		<key>MultipeerConnectivityViewController.nib</key>
 		<data>
-		dmUYmyUgU8QRbq+xAAX5v3O9x+4=
+		i4zLuDtg2kjig4SeNWpbvRH7MFM=
 		</data>
 		<key>QRCodeReaderViewController~iphone.nib/objects-8.0+.nib</key>
 		<data>
-		mNys11SYRL8Kue/10UeEivnMc0w=
+		IEUU50u4UUggrgu5yOstMEmvqBM=
 		</data>
 		<key>QRCodeReaderViewController~iphone.nib/runtime.nib</key>
 		<data>
-		EaJDyMQRa81FeBNzY/N9oCn9R+k=
+		HaJ4F46glUb4dGNxKyIVz4jerF4=
 		</data>
 		<key>QRCodeViewController.nib</key>
 		<data>
-		FBOiMtM2ljRHfMTkprr2Nj7NT5k=
+		BjDbwd/xzWgGSRb1nTJ63wMIHuU=
 		</data>
 		<key>ReadingListViewController.nib</key>
 		<data>
-		5BdU2U0F4FsM9X4C6Lt3APa0jkk=
+		TiUFYyCBWpvJr7ccWQpCPHZCJUw=
 		</data>
 		<key>SVProgressHUD.bundle/angle-mask@2x.png</key>
 		<data>
@@ -584,27 +584,27 @@
 		</data>
 		<key>SloMoVideoRecordViewController.nib</key>
 		<data>
-		x1pEy6FlX3Ah3fsN7scjb6tcIcg=
+		cgqmXmCcfjn7nbhxQXvrxEi7zCY=
 		</data>
 		<key>SmileDetectionViewController.nib</key>
 		<data>
-		as58Enx9Sl4WkkI4RxulgY5bI7s=
+		1aczIOMZ3lz9Cmecek+3i8AAUJA=
 		</data>
 		<key>SpeechSynthesisViewController.nib</key>
 		<data>
-		HOluEsON5mTyvbg1SBsBeFPX8Vg=
+		iRRUZcwOfEQjNS0vOZBYuQLmHCg=
 		</data>
 		<key>SpringAnimationViewController.nib</key>
 		<data>
-		2h+PEjN8CktQCeA8w1EIQ+0mnLo=
+		1wfPdpYLDwwiSkCpQZclrt/LBus=
 		</data>
 		<key>SpriteKitViewController.nib</key>
 		<data>
-		AAy8boeqvJUwT8cgN6ski339yRk=
+		PCt/0rCcKFs5HV/8QXJrZaFKmaI=
 		</data>
 		<key>WebPaginationViewController.nib</key>
 		<data>
-		iSdS3rqjQEwjqvfA//kmbB2gCMo=
+		2KQZ/YmgNH3e56DtQw0ItBlwZHY=
 		</data>
 		<key>addedIn7.plist</key>
 		<data>
