@@ -1,7 +1,7 @@
 ![](ResourcesForREADME/ogp.jpg)
 
 
-##テストプッシュ発火
+##　pull request にて　発火しる　テスト！！　by fmfujii
 
 iOS7-Sampler
 ============
