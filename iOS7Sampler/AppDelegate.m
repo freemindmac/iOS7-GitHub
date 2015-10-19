@@ -4,7 +4,7 @@
 //
 //  Created by shuichi on 9/21/13.
 //  Copyright (c) 2013 Shuichi Tsutsumi. All rights reserved.
-//
+//プルリクエストのテスト
 
 #import "AppDelegate.h"
 #import "SVProgressHUD.h"
